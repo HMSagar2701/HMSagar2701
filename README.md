@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Angular<br><br>📑 Check out my resume here <br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming, Cloud and DevOps<br><br>📫 Reach out to me at sagarhm2701@gmail.com
+🌱 I’m currently learning WEB3 !<br><br>📑 Check out my resume here <br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Programming, Cloud and DevOps<br><br>📫 Reach out to me at sagarhm2701@gmail.com
 
 
 ## 🌐 Socials:
