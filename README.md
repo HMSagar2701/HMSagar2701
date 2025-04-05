@@ -9,7 +9,7 @@
 
 ## 🌐 Connect with Me:
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/h-m-sagar">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
