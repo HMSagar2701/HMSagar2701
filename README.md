@@ -1,8 +1,6 @@
----
+# 🌛 About Me:
 
-# 💫 About Me:
-
-🌟 DevOps Engineer | Cloud Enthusiast | Automation Specialist <br>🛠️ I thrive on **automating infrastructure**, **managing CI/CD pipelines**, and **optimizing cloud-native environments** <br>📑 Check out my [Resume](mailto:sagarhm2701@gmail.com) <br>💻 Explore my projects on [GitHub](https://github.com/HMSagar2701) <br>💬 Ask me about **DevOps**, **Cloud Architecture**, **Infra as Code**, and **SRE practices** <br>📫 Reach out at: **[sagarhm2701@gmail.com](mailto:sagarhm2701@gmail.com)**
+🌟 DevOps Engineer | Cloud Enthusiast | Automation Specialist <br>🖠️ I thrive on **automating infrastructure**, **managing CI/CD pipelines**, and **optimizing cloud-native environments** <br>📁 Check out my [Resume](mailto:sagarhm2701@gmail.com) <br>💻 Explore my projects on [GitHub](https://github.com/HMSagar2701) <br>💬 Ask me about **DevOps**, **Cloud Architecture**, **Infra as Code**, and **SRE practices** <br>📧 Reach out at: **[sagarhm2701@gmail.com](mailto:sagarhm2701@gmail.com)**
 
 ---
 
@@ -82,5 +80,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=HMSagar2701\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
