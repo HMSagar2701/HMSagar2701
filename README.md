@@ -1,5 +1,3 @@
-Here’s your revised GitHub profile **focused entirely on DevOps Engineering**, while still showing your foundational full-stack knowledge where needed:
-
 ---
 
 # 💫 About Me:
@@ -86,5 +84,3 @@ Here’s your revised GitHub profile **focused entirely on DevOps Engineering**,
 [![](https://visitcount.itsvg.in/api?id=HMSagar2701\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ---
-
-Let me know if you want this as a `README.md` file ready to push to your GitHub profile repo.
